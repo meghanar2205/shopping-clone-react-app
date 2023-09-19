@@ -1,0 +1,13 @@
+.subtotal
+{
+    display: flex;
+    flex-direction: column;
+}
+.checkout_button
+{
+    display: block;
+    background-color: rgb(238, 113, 11);
+    font-size: 15px;
+    padding:5px;
+    margin:5px;
+}

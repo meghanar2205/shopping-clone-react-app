@@ -1,0 +1,34 @@
+.product_details
+{
+    max-width: 500px;
+    min-width:300px;
+    padding: 5px;
+    background-color: whitesmoke;
+    margin:10px;
+    min-height: 500px;
+    max-height:auto;
+}
+.image_of_product
+{
+    margin:10px
+}
+.product_rating
+{
+    display: flex;
+    /* color: rgb(134, 134, 29); */
+    font-size: 30px;
+}
+@media screen and (max-width:600px) 
+{
+    .product_details
+    {
+        max-width: 500px;
+        min-width:300px;
+        padding: 5px;
+        background-color: whitesmoke;
+        margin:10px;
+        min-height: 500px;
+        max-height:auto;
+        font-size:10px;
+    }    
+}
