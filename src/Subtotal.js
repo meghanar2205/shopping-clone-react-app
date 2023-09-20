@@ -39,9 +39,9 @@ function getBasketTotal(basket)
 {
     //let amount = 0;
     const a = basket.map((item) => parseFloat(item.price))
-    console.log(a);
+    // console.log(a);
     const res = a?.reduce((amount, cur)=> amount+cur,0)
-    console.log(res)
+    // console.log(res)
     return res;
 }
 
