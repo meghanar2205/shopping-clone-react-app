@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shopping-clone-react-app.git/static/css/main.87a0abac.css",
+    "main.js": "/shopping-clone-react-app.git/static/js/main.100a662c.js",
+    "static/js/787.ceade861.chunk.js": "/shopping-clone-react-app.git/static/js/787.ceade861.chunk.js",
+    "static/media/Checkout_page_image.png": "/shopping-clone-react-app.git/static/media/Checkout_page_image.1e00825b946d7efc7c5d.png",
+    "static/media/Welcome_Page_Image_amozon_eShop.png": "/shopping-clone-react-app.git/static/media/Welcome_Page_Image_amozon_eShop.b58fccaa675f6bbc63df.png",
+    "index.html": "/shopping-clone-react-app.git/index.html",
+    "main.87a0abac.css.map": "/shopping-clone-react-app.git/static/css/main.87a0abac.css.map",
+    "main.100a662c.js.map": "/shopping-clone-react-app.git/static/js/main.100a662c.js.map",
+    "787.ceade861.chunk.js.map": "/shopping-clone-react-app.git/static/js/787.ceade861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a0abac.css",
+    "static/js/main.100a662c.js"
+  ]
+}
